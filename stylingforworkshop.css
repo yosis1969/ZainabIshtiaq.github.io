@@ -1,0 +1,17 @@
+
+nav div ul{
+	font-weight: 10px;
+	font-size: 10px
+	color:gold;
+	
+}
+.big-banner{
+	background-image: url(stars.jpg);
+	height: 500px
+}
+h5{
+	color: #00008b;
+	font-family: sans-serif;
+	text-shadow: 1px 1px 1px;
+	border: 10px
+}
